@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aspartano\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aspartano\\.nuget\\packages"
+    ]
+  }
+}
